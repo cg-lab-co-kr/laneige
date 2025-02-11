@@ -401,16 +401,6 @@
   }
 }
 
-@media (max-width: 600px) {
-  .store {
-    height: 40rem;
-  }
-
-  .allergie-txt p {
-    width: 100%;
-  }
-}
-
 @media (max-width: 800px) {
   .vison-title p {
     width: 80%;
@@ -430,5 +420,15 @@
 
   .story p {
     width: 90%;
+  }
+}
+
+@media (max-width: 600px) {
+  .store {
+    height: 40rem;
+  }
+
+  .allergie-txt p {
+    width: 100%;
   }
 }
